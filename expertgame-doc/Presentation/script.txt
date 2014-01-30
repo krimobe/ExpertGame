@@ -1,0 +1,71 @@
+Imagine you’re working in a large international company. You have coworkers in all other continents. Many of them you haven’t even seen before. But you have to get help from them to solve your professional tasks as they need to solve theirs. You can only talk to them over email, never in person. You achieve success, meaning money, if you get help from your expert.
+
+This is the Expert Game, which you will play today.
+
+To make it simple, everyone is an expert on one topic and has a question on another topic. Look at the first slide. This slide shows the interface at the beginning of the game. Think of the interface as an email interface that allows you to communicate with all the other workers.
+
+You are listed on top right (show), all your potential collaborators are listed below (show). You start out with a budget of 300 kr. The balance will increase or decrease, depending on your performance.
+
+A new game starts (click). You now have a new question and expertise (show). At the beginning of each new game you are taken 10 kr (show the counter) and your balance has dropped to 290 kr. 
+
+You don’t know anything about the others though (show). But you know there is exactly one person out there who is your expert. And you know there is exactly one person out there who needs your expertise.
+
+The first round of the game will start. In each round you can send no more than one message, completely independent of the type of message. This is indicated by the red letter symbol (show). It turns gray when you have sent.
+
+I will now explain the types of messages. The only type of message you can send in the beginning is an inquiry, because you don’t know anything about the others. Let’s see what happens if you send an inquiry (next slide).
+
+To send an inquiry, you need to select the person you want to send an inquiry to (show). Here we select Hansen. Just as about everyone else, we don’t know anything about Hansen yet (show). To actually send an inquiry to Hansen, just press the ‘I’-button (show). Hansen will now be sent an inquiry. The inquiry will inform Hansen about two things: one: Your Expertise, two: your Question. 
+
+(next slide). Look what happens when you have sent Hansen an inquiry: It will say what you have asked about in the chat window (point to the left). It says “I am an expert in … and I have a question about … Can you help me?” This chat window will keep track of all your conversation with Hansen. For the other players, click on their name and you will also see the chat with them.
+
+As I said earlier, you can only send one message per round. In the first round you have sent an inquiry to Hansen. Other players have also sent messages and when everyone has sent, the messages will arrive and round 2 of game 1 begins. 
+
+Note the single beep, this means we are now in round 2. We are now in round 2 of game 1. Round 2 is different from round 1 in that you may now have received messages in your inbox, because those were sent to you by the others in round 1. So let’s look at what we have in round 2.
+
+Look at the new situation (show on screen). Your letter symbol is red again, this means you can send a message again. Remember that you can only send one message per round, so now you have one available message again, since the new round has started.
+
+Note also that you have a red letter symbol next to the name ‘Jensen’. This always tells you, that Jensen has sent you something. But you have to click on Jensen to find out what it is. So you click on Jensen. (next slide).
+
+In the chat window you now see what Jensen has done. Incoming messages are always on the right of the chat window, your messages always on the left. Now, what has Jensen sent you? Jensen sent you an inquiry. Jensen tells you two things: one: Expertise on Advertising. Two: Question on Architecture. Now look back onto the right (pointing). Look! Jensen now has some information about Question and Expertise. You have now learned this about Jensen.
+
+But what do you do now? Jensen wants help from you, but your goal is to get help from your expert. Your expert needs to be an expert on weaving. Now look at the bottom left (pointing). There are four types of messages. The first one we know, it is inquiry (the green one). You can always send this message. The other three are replies, the replies are the blue symbols. They are ‘confirmation’, ‘referral’ and ‘negation’. 
+
+Let’s say you want to reply to Jensen. You can’t use confirmation, this is used when you are the expert matching the inquiry. You can’t use referral, referral is for referring someone to their expert, but this is not possible here. But you can actually use N, for negation, because you don’t know anything about ‘Architecture’. Let’s say you have decided to send a negation. Just click on the ‘N’ symbol (show). The corresponding chat message will appear in the chat window (show). You have now sent Jensen a negation and your turn is used up. Jensen now knows that you are not the expert he/she was looking for.
+
+We just discussed negations. Now we want to discuss ‘confirmation’, the symbol ‘C’, remember it? Here is a situation where you could use the message type C. Look what happened: Anderson sent you a message. You click it to see it (next slide). Look, Andersen has sent you an inquiry! The inquiry states that Andersen is an expert in Architecture and needs an expert in Design. But wait! You ARE the expert on Design. So you now have the option to send Andersen a confirmation. Sending a confirmation, like sending any other type of message (R, N, or I) will use up your turn for this round. (next slide).
+
+You have sent Andersen the confirmation. The text appears in your chat window with Andersen (show). You have offered your help and Andersen will have achieved success for this game. 
+
+But what about the referral, the R-message? Let’s take a look at the screen. Andersen is an expert on Architecture. But Jensen is looking for an expert on Architecture (show matching items on screen). You know all this and can serve as a matchmaker. This is possible by the use of the R-message, which stands for referral. The R-message is now sent to Jensen by first clicking on Jensen and then clicking on the ‘R’ symbol (show). Look what happened after clicking ‘R’: Jensen now gets a message directing him/her to Andersen. This is beneficial for Jensen in achieving success (20 kr) but it used up your message for this round. 
+
+Did I mention that each message, R, I, N, or C, uses up your turn for the given round? It doesn’t matter which of the messages you use, you will always use up the single message you have for the round. I didn’t tell you yet how many messages you will have in a GAME. In a GAME you will have 7-12 messages. It varies a little. 
+
+Now watch what happens when you receive a referral. (next slide). Hansen has sent you a message, you click on Hansen. Look! Hansen has referred you to Nielsen. Hansen must have known something about you (your question from your inquiry) and something about Nielsen (Nielsen’s expertise from his/her inquiry) and served as a matchmaker. Look also that on the box corresponding to Nielsen you now have additional information. It now says that Nielsen is an expert on Weaving, exactly the expert you need! 
+
+Did I make clear what the goal of the game is? It is to get a confirmation from your expert, that is the C-message. This is precisely the thing that will yield 20 kr for you. It is not enough to know who your expert is. So whatever you do, within the 7-12 messages you have to receive a confirmation from your expert to earn 20 kr. If you do not receive a confirmation within these 7-12 rounds, meaning 7-12 messages, you will not earn 20 kr. 
+
+Now that you know about Nielsen as your expert, all you need to do is get in touch with Nielsen. The best (and only) way is to send Nielsen a simple inquiry, the one with the ‘I’. This we do now (show on screen).
+
+What has happened now? Nielsen has received your inquiry and will notice that he/she can really help you. Nielsen is now in a position to help you, but has to decide what to do. As any other message, a confirmation will use up Nielsen’s turn. Let’s suppose Nielsen does send you a confirmation (show on screen). The chat box now says that Nielsen sent you a confirmation. This is a great success for you, since you get help and earn 20 kr! You have been successful in THIS game. 
+
+Oh, one small thing to mention: You can be lazy and avoid sending any messages. There is a “skip round” button on the top right (show on screen). This button will tell the interface that you are ready for the next round without sending any message. You have used your message for this round anyway. Like R, I, C, and N, the “skip round” button uses up your message for the round. You can’t save messages for later. 
+
+Don’t worry if you didn’t receive a confirmation from your expert in the first game. There will be many more to come. In each game, everything is the same, except that expertise and questions are re-assigned. But the people are the same, the rules are the same, the money is the same. You are taken 10 kr at the beginning of game 2 and can earn 20 kr if you are successful this time. Did I mention you have 7-12 round per game? You do, so try to be smart about playing the Expert Game.
+
+We need something more from you: You are required to document your messages and the messages you receive. (next slide)
+
+Look at the screen. You are here (point to center) and here are all the other players. We are now in round 1 again. You decide to send a message of type ‘I’ to Dahl. This is simple to document: Draw an arrow from you to Dahl and label it using the symbol ‘I’, this stands for ‘Inquiry’.
+
+Let’s move on a bit. After round 3 the situation may look like this: You have sent the inquiry to Dahl, then there was an inquiry from Friis and a referral from Dahl -- the symbol ‘R’ is used there. You also decided to send a confirmation to Friis, this is labeled by the symbol ‘C’.
+
+Let’s try another example (next slide): Here you see even more inquiries and another referral. (next slide)
+
+Sometimes there will be multiple messages from the same player to the same player, like here. Dahl first sent you a referral and later an inquiry. To keep it simple, you can label the same arrow, this is just a suggestion. But make sure to be thorough about this documentation, it is very important for our analysis. 
+
+Use a new circle of players for every game, just flip to the next page when game 1 ends and game 2 starts. 
+
+You are also allowed to take extra notes on the same paper. Whatever you feel like can help you keep track of the others and the past conversations with them. Be thorough and take your time to think. This can improve your success. We will not rush you. There is also another piece of paper for personal notes on the other players, use this for any notes you want to take. This is private, you will keep this for yourself and we will not collect it.
+
+Did I mention that you start out with 300 kr? Don’t take this money for granted. A poor player can easily drop to 150 kr by the end of the day. A strong player can make up to 500 kr total! So trying pays off.
+
+Now we will make sure you have understood the rules. Here are some questions.

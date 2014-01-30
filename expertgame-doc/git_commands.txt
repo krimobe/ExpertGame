@@ -1,0 +1,7 @@
+git status             (overview of status)
+git add <filename>     (mark changes to a file for next commit)
+git commit             (commit a new revision [contains only changes to files added with "git add"])
+git push 	       (send all committed changes to bitbucket)
+git pull               (get all committed changes from bitbucket)
+
+git commit -a          (adds all changes to files that are controlled by git and commits)
